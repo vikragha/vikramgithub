@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://cihangxie.github.io"
+url: "http://jundeli.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -29,7 +29,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/cihangxie.jpg"
+avatar: "/img/lijunde.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -40,9 +40,9 @@ avatar: "/img/cihangxie.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Cihang Xie
-  email: "cihangxie306@gmail.com"
-  github: cihangxie    # eg. daattali
+  name: Junde Li
+  email: "jul1512@psu.edu"
+  github: jundeli    # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
