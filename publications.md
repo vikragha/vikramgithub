@@ -17,7 +17,7 @@ title: Publications
 </strong><br />
           <b>Junde Li</b>, Mahabubul Alam, Abdullah Ash-Saki, and Swaroop Ghosh<br />
          International Symposium on Quality Electronic Design, 2020<br />
-          <a href="https://github.com/jundeli/jundeli.github.io/blob/master/ISQED-QUBO.pdf">[PDF]</a> 
+          <a href="https://github.com/jundeli/jundeli.github.io/blob/master/files/ISQED-QUBO.pdf">[PDF]</a> 
        </p>
     </div>
 </div>
@@ -40,7 +40,7 @@ title: Publications
 </strong><br />
           <b>Junde Li</b>, Qi Ma, Alan Chan, and SS Man<br />
           Applied ergonomics, 2019<br />
-          <a href="https://github.com/jundeli/jundeli.github.io/blob/master/SWAM.pdf">[PDF]</a> 
+          <a href="https://github.com/jundeli/jundeli.github.io/blob/master/files/SWAM.pdf">[PDF]</a> 
        </p>
     </div>
 </div>
