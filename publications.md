@@ -9,6 +9,19 @@ You can also browse my <a href="https://scholar.google.com/citations?user=i1uHh2
 <h3>
     <a name='2019'></a> 2019
 </h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Hierarchical Improvement of Quantum Approximate Optimization Algorithm for Object Detection
+</strong><br />
+          <b>Junde Li</b>, Mahabubul Alam, Abdullah Ash-Saki, and Swaroop Ghosh<br />
+         International Symposium on Quality Electronic Design, 2020<br />
+          <a href="https://github.com/jundeli/jundeli.github.io/blob/master/ISQED-QUBO.pdf">[PDF]</a> 
+       </p>
+    </div>
+</div>
+
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
