@@ -29,7 +29,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=i1uHh2
 </strong><br />
           <b>Junde Li</b>, Navyata Gattu, and Swaroop Ghosh<br />
           Transactions on Design Automation of Electronic Systems (<b>Under Review</b>)<br />
-          #<a href="https://github.com/jundeli/jundeli.github.io/blob/master/SWAM.pdf">[PDF]</a> 
        </p>
     </div>
 </div>
