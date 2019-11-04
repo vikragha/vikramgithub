@@ -16,7 +16,7 @@
                 <a href="https://jundeli.github.io/projects/" target="_blank" class="fa fa-link" style="color:#aaaaaa;font-size:20px;"></a>
                 &ensp;
                 <br><br />
-                <a href="" target="_blank" class="image fit"><img src="https://www.dropbox.com/s/uouomn3nusgbztq/isqed-qubo.png?dl=0" alt="toades (under review) figure"></a>
+                <a href="" target="_blank" class="image fit"><img src="https://www.dropbox.com/s/uouomn3nusgbztq/isqed-qubo.png?dl=0"></a>
             </p>
         </div>
     </section>
