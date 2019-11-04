@@ -4,7 +4,7 @@
           <h2>Research</h2>
       </header>
       <p>
-          I'm interested in computational photography and machine learning. <br \>I feel truly fortunate to have collaborated with these inspiring people from the industrial research labs (in chronicle order): <a href="http://vladlen.info/" style="color:#aaaaaa;text-decoration:none">Vladlen Koltun (Intel)</a>, <a href="http://cqf.io/" style="color:#aaaaaa;text-decoration:none">Qifeng Chen (Intel)</a>, <a href="http://www.kmatzen.com/" style="color:#aaaaaa;text-decoration:none">Kevin Matzen (Facebook)</a>, <a href="https://joonyoung-cv.github.io/" style="color:#aaaaaa;text-decoration:none">Joon-Young Lee (Adobe)</a>, <a href="http://www.eecs.harvard.edu/~kalyans/" style="color:#aaaaaa;text-decoration:none"> Kalyan Sunkavalli (Adobe) </a>, <a href="https://research.adobe.com/person/zhaowen-wang/" style="color:#aaaaaa;text-decoration:none"> Zhaowen Wang (Adobe) </a>.
+          I'm interested in autonomous driving, robotics, computer vision and machine learning. <!--<br \>I feel truly fortunate to have collaborated with these inspiring people from the industrial research labs (in chronicle order): <a href="http://vladlen.info/" style="color:#aaaaaa;text-decoration:none">Vladlen Koltun (Intel)</a>, <a href="http://cqf.io/" style="color:#aaaaaa;text-decoration:none">Qifeng Chen (Intel)</a>, <a href="http://www.kmatzen.com/" style="color:#aaaaaa;text-decoration:none">Kevin Matzen (Facebook)</a>, <a href="https://joonyoung-cv.github.io/" style="color:#aaaaaa;text-decoration:none">Joon-Young Lee (Adobe)</a>, <a href="http://www.eecs.harvard.edu/~kalyans/" style="color:#aaaaaa;text-decoration:none"> Kalyan Sunkavalli (Adobe) </a>, <a href="https://research.adobe.com/person/zhaowen-wang/" style="color:#aaaaaa;text-decoration:none"> Zhaowen Wang (Adobe) </a>.
       </p>
       <hr align="center" width="100%">
       <section>
@@ -89,3 +89,4 @@
           </div>
       </section>
   </article>
+  -->
