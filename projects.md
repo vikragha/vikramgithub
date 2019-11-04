@@ -3,7 +3,7 @@
         <h2>Projects</h2>
     </header>
     <p>
-        I'm interested in autonomous driving, robotics, machine learning, and computer vision. <br \>
+        I'm interested in autonomous driving, robotics, machine learning, and computer vision.
     </p>
     <hr align="center" width="100%">
     <section>
