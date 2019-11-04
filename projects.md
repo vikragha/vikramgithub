@@ -8,9 +8,6 @@
     <hr align="center" width="100%">
     <section>
         <div class="row">
-            <header>
-                <h3>Conference Paper</h3>
-            </header>
             <p style="color:#696969;">
                 <a href="https://jundeli.github.io/projects/" target="_blank" style="color:#aaaaaa;text-decoration:none">
                     Hierarchical Improvement of Quantum Approximate Optimization Algorithm for Object Detection<br/></a>
@@ -19,16 +16,12 @@
                 <a href="https://jundeli.github.io/projects/" target="_blank" class="fa fa-link" style="color:#aaaaaa;font-size:20px;"></a>
                 &ensp;
                 <br><br />
-                <a href="" target="_blank" class="image fit"><img src="img/isqed-qubo.png" alt="toades (under review) figure"></a>
-                <img src = "https://www.dropbox.com/s/uouomn3nusgbztq/isqed-qubo.png?dl=0">
+                <a href="" target="_blank" class="image fit"><img src="https://www.dropbox.com/s/uouomn3nusgbztq/isqed-qubo.png?dl=0" alt="toades (under review) figure"></a>
             </p>
         </div>
     </section>
     <section>
         <div class="row">
-            <header>
-                <h3>Journal Paper</h3>
-            </header>
             <p style="color:#696969;">
                 <a href="https://jundeli.github.io/projects/" target="_blank" style="color:#aaaaaa;text-decoration:none">
                 FAuto: An Efficient GMM-HMM FPGA Implementation for Behavior Estimation in Autonomous Systems<br/></a>
