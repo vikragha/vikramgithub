@@ -9,7 +9,7 @@
     <section>
         <div class="row">
             <header>
-                <h3>Conference Papers</h3>
+                <h3>Conference Paper</h3>
             </header>
             <p style="color:#696969;">
                 <a href="https://jundeli.github.io/projects/" target="_blank" style="color:#aaaaaa;text-decoration:none">
@@ -26,7 +26,7 @@
     <section>
         <div class="row">
             <header>
-                <h3>Journal Papers</h3>
+                <h3>Journal Paper</h3>
             </header>
             <p style="color:#696969;">
                 <a href="https://jundeli.github.io/projects/" target="_blank" style="color:#aaaaaa;text-decoration:none">
