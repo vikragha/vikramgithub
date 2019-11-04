@@ -19,7 +19,7 @@
                 <a href="https://jundeli.github.io/projects/" target="_blank" class="fa fa-link" style="color:#aaaaaa;font-size:20px;"></a>
                 &ensp;
                 <br><br />
-                ![isqed](https://www.dropbox.com/s/uouomn3nusgbztq/isqed-qubo.png?dl=0)
+                <img src="https://github.com/KrisKasprzak/ILI9341_t3_controls">
             </p>
         </div>
     </section>
