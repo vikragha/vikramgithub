@@ -30,7 +30,7 @@
                 <a href="https://jundeli.github.io/projects/" target="_blank" class="fa fa-link" style="color:#aaaaaa;font-size:20px;"></a>
                 &ensp;
                 <br><br />
-                <a href="" target="_blank" class="image fit"><img src="toades-pipeline.png" alt="toades (under review) figure"></a>
+                <a href="" target="_blank" class="image fit"><img src="img/toades-pipeline.png" alt="toades (under review) figure"></a>
             </p>
         </div>
     </section>
