@@ -20,6 +20,7 @@
                 &ensp;
                 <br><br />
                 <a href="" target="_blank" class="image fit"><img src="img/isqed-qubo.png" alt="toades (under review) figure"></a>
+                <img src = "https://www.dropbox.com/s/uouomn3nusgbztq/isqed-qubo.png?dl=0">
             </p>
         </div>
     </section>
