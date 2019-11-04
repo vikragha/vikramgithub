@@ -19,7 +19,7 @@
                 <a href="https://jundeli.github.io/projects/" target="_blank" class="fa fa-link" style="color:#aaaaaa;font-size:20px;"></a>
                 &ensp;
                 <br><br />
-                <a href="" target="_blank" class="image fit"><img src="https://www.dropbox.com/s/uouomn3nusgbztq/isqed-qubo.png?dl=0" alt="cvpr 2019 paper figure"></a>
+                <a href="" target="_blank" class="image fit"><img src="https://www.dropbox.com/s/uouomn3nusgbztq/isqed-qubo.png?dl=0" alt="isqed 2020 paper figure"></a>
             </p>
             <hr align="center" width="100%">
             <p style="color:#696969;">
