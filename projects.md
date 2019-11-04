@@ -19,7 +19,7 @@
                 <a href="https://jundeli.github.io/projects/" target="_blank" class="fa fa-link" style="color:#aaaaaa;font-size:20px;"></a>
                 &ensp;
                 <br><br />
-                <a href="" target="_blank" class="image fit"><img src="https://www.dropbox.com/s/uouomn3nusgbztq/isqed-qubo.png?dl=0" alt="isqed 2020 paper figure"></a>
+                <a href="" target="_blank" class="image fit"><img src="img/isqed-qubo.png" alt="isqed 2020 paper figure"></a>
             </p>
             <hr align="center" width="100%">
             <p style="color:#696969;">
@@ -30,7 +30,7 @@
                 <a href="https://jundeli.github.io/projects/" target="_blank" class="fa fa-link" style="color:#aaaaaa;font-size:20px;"></a>
                 &ensp;
                 <br><br />
-                <a href="" target="_blank" class="image fit"><img src="https://www.dropbox.com/s/anll1r08pyfw50k/toades-pipeline.png?dl=0" alt="toades (under review) figure"></a>
+                <a href="" target="_blank" class="image fit"><img src="toades-pipeline.png" alt="toades (under review) figure"></a>
             </p>
         </div>
     </section>
