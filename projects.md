@@ -7,7 +7,7 @@ modified: 9-10-2019
 comments: false
 ---
 
-Some of my projects in process are presented here.
+My recent projects in process are presented here.
 
 * **Hierarchical Improvement of Quantum Approximate Optimization Algorithm for Object Detection**<br>
  <p align="center" ><img src="{{ site.url }}/img/isqed-qubo.png"></p>
