@@ -7,7 +7,7 @@ title: Experience
 <br />
 
 <h3>
-    <a name='2019'></a> RESEARCH
+    <a name='2019'></a> WORK
 </h3>
 
 <div class="media">
