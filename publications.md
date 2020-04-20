@@ -7,8 +7,20 @@ title: Publications
 <br />
 
 <h3>
-    <a name='2019'></a> 2019
+    <a name='2019'></a> 2020
 </h3>
+
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Quantum-soft QUBO Suppression for Accurate Object Detection
+</strong><br />
+          <b>Junde Li</b>, and Swaroop Ghosh<br />
+         European Conference on Computer Vision <b>(under review)</b>, 2020<br />
+       </p>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
@@ -33,6 +45,10 @@ title: Publications
     </div>
 </div>
 
+
+<h3>
+    <a name='2019'></a> 2019
+</h3>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
