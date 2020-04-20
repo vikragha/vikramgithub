@@ -16,7 +16,7 @@ title: Publications
           <strong>Hierarchical Improvement of Quantum Approximate Optimization Algorithm for Object Detection
 </strong><br />
           <b>Junde Li</b>, Mahabubul Alam, Abdullah Ash-Saki, and Swaroop Ghosh<br />
-         International Symposium on Quality Electronic Design, 2020<br />
+         International Symposium on Quality Electronic Design (ISQED), 2020<br />
           <a href="https://github.com/jundeli/jundeli.github.io/blob/master/files/ISQED-QUBO.pdf">[PDF]</a> 
        </p>
     </div>
@@ -28,7 +28,7 @@ title: Publications
           <strong>FAuto: An Efficient GMM-HMM FPGA Implementation for Behavior Estimation in Autonomous Systems
 </strong><br />
           <b>Junde Li</b>, Navyata Gattu, and Swaroop Ghosh<br />
-          Transactions on Design Automation of Electronic Systems (<b>Under Review</b>)<br />
+          International Joint Conference on Neural Networks (IJCNN), 2020<br />
        </p>
     </div>
 </div>
