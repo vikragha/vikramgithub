@@ -17,7 +17,7 @@ title: Publications
           <strong>Quantum-soft QUBO Suppression for Accurate Object Detection
 </strong><br />
           <b>Junde Li</b>, and Swaroop Ghosh<br />
-         European Conference on Computer Vision <b>(under review)</b>, 2020<br />
+         European Conference on Computer Vision 2020 <b>(Under Review)</b><br />
        </p>
     </div>
 </div>
