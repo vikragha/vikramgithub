@@ -18,7 +18,6 @@ My recent projects are presented here.
 
 * **FAuto: An Efficient GMM-HMM FPGA Implementation for Behavior Estimation in Autonomous Systems**<br />
           <b>Junde Li</b>, Navyata Gattu, and Swaroop Ghosh<br />
-          TODAES (Under Review)<br />
 
 <p align="center" ><img src="{{ site.url }}/img/toades-pipeline.png"></p>
 
