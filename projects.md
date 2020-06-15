@@ -11,7 +11,6 @@ My recent projects are presented here.
 
 * **Hierarchical Improvement of Quantum Approximate Optimization Algorithm for Object Detection**<br />
           <b>Junde Li</b>, Mahabubul Alam, Abdullah Ash-Saki, and Swaroop Ghosh<br />
-         ISQED, 2020<br />
  <p align="center" ><img src="{{ site.url }}/img/isqed-qubo.png"></p>
 
 ------------------
