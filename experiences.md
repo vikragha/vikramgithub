@@ -16,11 +16,11 @@ title: Experience
           <strong>Pennsylvania State University (01/2019 - Present)
 </strong><br />
          Machine Learning for Autonomous Systems <br />
-           Object detection (perception) for autonomous vehicles: proposed a novel hybrid algorithm for filtering out false positives in object detections with state-of-the-art accuracy for both generic and pedestrian detections. <br />
-           Driving behavior estimation for autonomous vehicles: designed a power-efficient FPGA embedded systems of machine learning model GMM-HMM for predicting driving behaviors of surrounding vehicles. <br />
+           &nbsp; Object detection (perception) for autonomous vehicles: proposed a novel hybrid algorithm for filtering out false positives in object detections with state-of-the-art accuracy for both generic and pedestrian detections. <br />
+           &nbsp; Driving behavior estimation for autonomous vehicles: designed a power-efficient FPGA embedded systems of machine learning model GMM-HMM for predicting driving behaviors of surrounding vehicles. <br />
          Quantum Computing and Quantum Machine Learning <br />
-           Quantum generative neural networks: working on quantum generative networks for creating a large amount of drug candidates that are potentially effective for ongoing global pandemic by exploiting quantum computing advantage. <br />
-           Hybrid quantum-classical optimization: designed an efficient hybrid algorithm for solving large-scale maximum cut-like NP-hard problems with near-optimal solutions and exponential speedup. <br />
+           &nbsp; Quantum generative neural networks: working on quantum generative networks for creating a large amount of drug candidates that are potentially effective for ongoing global pandemic by exploiting quantum computing advantage. <br />
+           &nbsp; Hybrid quantum-classical optimization: designed an efficient hybrid algorithm for solving large-scale maximum cut-like NP-hard problems with near-optimal solutions and exponential speedup. <br />
        </p>
     </div>
 </div>
