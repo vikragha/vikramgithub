@@ -38,7 +38,7 @@ title: Experience
 
 
 <h3>
-    <a name='2019'></a> TEACHING
+    <a name='2019'></a> Work Experiences
 </h3>
 
 <div class="media">
@@ -67,15 +67,4 @@ title: Experience
          Process Engineer (R&D), Hong Kong <br />
        </p>
     </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>City University of Hong Kong (07/2016 – 12/2018)
-</strong><br />
-         P/T Research Assistant, Hong Kong <br />
-       </p>
-    </div>
-</div>
 </div>
