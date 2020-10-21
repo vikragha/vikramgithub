@@ -16,11 +16,11 @@ title: Experience
           <strong>Pennsylvania State University (01/2019 - Present)
 </strong><br />
          Machine Learning for Autonomous Systems <br />
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perception for autonomous vehicles<br />
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Driving behavior estimation for autonomous vehicles<br />
+           --&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Perception for autonomous vehicles<br />
+           --&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Driving behavior estimation for autonomous vehicles<br />
          Quantum Computing and Quantum Machine Learning <br />
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quantum generative neural networks<br />
-           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hybrid quantum-classical optimization<br />
+           --&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quantum generative neural networks<br />
+           --&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hybrid quantum-classical optimization<br />
        </p>
     </div>
 </div>
