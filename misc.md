@@ -7,22 +7,12 @@ modified: 20-10-2020
 comments: false
 ---
 
-My recent projects are presented here.
+I am also a Confucian scholar and lover of Chinese calligraphy.
 
-* **Quantum-soft QUBO Suppression for Accurate Object Detection**<br />
-          <b>Junde Li</b>, and Swaroop Ghosh<br />
- <p align="center" ><img src="{{ site.url }}/img/eccv-qsqs.png"></p>
+* **Some of the books I read and Mencius is my favoriate one**<br />
+ <p align="center" ><img src="{{ site.url }}/img/chinese-studies.png"></p>
  
  ------------------
  
-* **Hierarchical Improvement of Quantum Approximate Optimization Algorithm for Object Detection**<br />
-          <b>Junde Li</b>, Mahabubul Alam, Abdullah Ash-Saki, and Swaroop Ghosh<br />
- <p align="center" ><img src="{{ site.url }}/img/isqed-qubo.png"></p>
-
-------------------
-
-* **FAuto: An Efficient GMM-HMM FPGA Implementation for Behavior Estimation in Autonomous Systems**<br />
-          <b>Junde Li</b>, Navyata Gattu, and Swaroop Ghosh<br />
-
-<p align="center" ><img src="{{ site.url }}/img/toades-pipeline.png"></p>
-
+* **Some of my writings :)**<br />
+ <p align="center" ><img src="{{ site.url }}/img/calligraphy.png"></p>
