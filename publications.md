@@ -40,6 +40,7 @@ title: Publications
 </strong><br />
           <b>Junde Li</b>, and Swaroop Ghosh<br />
          European Conference on Computer Vision 2020 <br />
+           <a href="https://link.springer.com/chapter/10.1007/978-3-030-58526-6_10">[PDF]</a> 
        </p>
     </div>
 </div>
@@ -51,7 +52,7 @@ title: Publications
 </strong><br />
           <b>Junde Li</b>, Mahabubul Alam, Abdullah Ash-Saki, and Swaroop Ghosh<br />
          International Symposium on Quality Electronic Design (ISQED), 2020<br />
-          <a href="https://github.com/jundeli/jundeli.github.io/blob/master/files/ISQED-QUBO.pdf">[PDF]</a> 
+          <a href="https://github.com/jundeli/jundeli.github.io/blob/master/files/IJCNN2020-FAuto.pdf">[PDF]</a> 
        </p>
     </div>
 </div>
@@ -63,6 +64,7 @@ title: Publications
 </strong><br />
           <b>Junde Li</b>, Navyata Gattu, and Swaroop Ghosh<br />
           International Joint Conference on Neural Networks (IJCNN), 2020<br />
+          <a href="https://link.springer.com/chapter/10.1007/978-3-030-58526-6_10">[PDF]</a>
        </p>
     </div>
 </div>
