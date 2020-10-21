@@ -2,8 +2,8 @@
 layout: page
 permalink: /misc/
 title: More about me
-tags: [projects]
-modified: 9-10-2019
+tags: [misc]
+modified: 20-10-2020
 comments: false
 ---
 
