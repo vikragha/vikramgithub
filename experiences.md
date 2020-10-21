@@ -7,8 +7,34 @@ title: Experience
 <br />
 
 <h3>
-    <a name='2019'></a> WORK
+    <a name='2019'></a> Research Experiences
 </h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Pennsylvania State University (01/2019 - Present)
+</strong><br />
+         Machine Learning for Autonomous Systems <br />
+           Object detection (perception) for autonomous vehicles: proposed a novel hybrid algorithm for filtering out false positives in object detections with state-of-the-art accuracy for both generic and pedestrian detections. <br />
+           Driving behavior estimation for autonomous vehicles: designed a power-efficient FPGA embedded systems of machine learning model GMM-HMM for predicting driving behaviors of surrounding vehicles. <br />
+         Quantum Computing and Quantum Machine Learning <br />
+           Quantum generative neural networks: working on quantum generative networks for creating a large amount of drug candidates that are potentially effective for ongoing global pandemic by exploiting quantum computing advantage. <br />
+           Hybrid quantum-classical optimization: designed an efficient hybrid algorithm for solving large-scale maximum cut-like NP-hard problems with near-optimal solutions and exponential speedup. <br />
+       </p>
+    </div>
+</div>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>City University of Hong Kong (07/2016 - 12/2018)
+</strong><br />
+         Human-computer Interaction and Human Factors <br />
+           Smart wearables and health technologies: took part in several research projects associated with Human Factors, Data Analytics, and Machine Learning in smart wearables and health technologies, and submitted proposal on these areas for applying research grant as co-PI. <br />
+       </p>
+    </div>
+</div>
 
 <div class="media">
     <div class="media-body">
