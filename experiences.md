@@ -31,11 +31,24 @@ title: Experience
           <strong>City University of Hong Kong (07/2016 - 12/2018)
 </strong><br />
          Human-computer Interaction and Human Factors <br />
-           Smart wearables and health technologies: took part in several research projects associated with Human Factors, Data Analytics, and Machine Learning in smart wearables and health technologies, and submitted proposal on these areas for applying research grant as co-PI. <br />
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Smart wearables and health technologies:</b> took part in several research projects associated with Human Factors, Data Analytics, and Machine Learning in smart wearables and health technologies, and submitted proposal on these areas for applying research grant as co-PI. <br />
        </p>
     </div>
 </div>
 
+
+<h3>
+    <a name='2019'></a> TEACHING
+</h3>
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Pennsylvania State University (Spring & Fall 2019)
+</strong><br />
+         Teaching Assistant (CMPSC 360 Discrete Mathematics), PA <br />
+       </p>
+    </div>
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -65,17 +78,4 @@ title: Experience
        </p>
     </div>
 </div>
-
-<h3>
-    <a name='2019'></a> TEACHING
-</h3>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
-          <strong>Pennsylvania State University (Spring & Fall 2019)
-</strong><br />
-         Teaching Assistant (CMPSC 360 Discrete Mathematics), PA <br />
-       </p>
-    </div>
 </div>
