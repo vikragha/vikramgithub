@@ -16,11 +16,11 @@ title: Experience
           <strong>Pennsylvania State University (01/2019 - Present)
 </strong><br />
          Machine Learning for Autonomous Systems <br />
-           &nbsp;&nbsp;&nbsp; <b>Perception for autonomous vehicles:</b> proposed a novel hybrid algorithm for filtering out false positives in object detections with state-of-the-art accuracy for both generic and pedestrian detections. <br />
-           &nbsp;&nbsp;&nbsp; <b>Driving behavior estimation for autonomous vehicles:</b> designed a power-efficient FPGA embedded systems of machine learning model GMM-HMM for predicting driving behaviors of surrounding vehicles. <br />
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Perception for autonomous vehicles:</b> proposed a novel hybrid algorithm for filtering out false positives in object detections with state-of-the-art accuracy for both generic and pedestrian detections. <br />
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Driving behavior estimation for autonomous vehicles:</b> designed a power-efficient FPGA embedded systems of machine learning model GMM-HMM for predicting driving behaviors of surrounding vehicles. <br />
          Quantum Computing and Quantum Machine Learning <br />
-           &nbsp;&nbsp;&nbsp; <b>Quantum generative neural networks:</b> working on quantum generative networks for creating a large amount of drug candidates that are potentially effective for ongoing global pandemic by exploiting quantum computing advantage. <br />
-           &nbsp;&nbsp;&nbsp; <b>Hybrid quantum-classical optimization:</b> designed an efficient hybrid algorithm for solving large-scale maximum cut-like NP-hard problems with near-optimal solutions and exponential speedup. <br />
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Quantum generative neural networks:</b> working on quantum generative networks for creating a large amount of drug candidates that are potentially effective for ongoing global pandemic by exploiting quantum computing advantage. <br />
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Hybrid quantum-classical optimization:</b> designed an efficient hybrid algorithm for solving large-scale maximum cut-like NP-hard problems with near-optimal solutions and exponential speedup. <br />
        </p>
     </div>
 </div>
