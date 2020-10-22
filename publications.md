@@ -3,7 +3,7 @@ layout: page
 title: Publications
 ---
 
-<!-- You can also browse my <a href="https://scholar.google.com/citations?user=i1uHh2sAAAAJ&hl=en">Google Scholar profile</a>. -->
+You can also browse my <a href="https://scholar.google.com/citations?user=i1uHh2sAAAAJ&hl=en">Google Scholar profile</a>.
 <br />
 
 <h3>
