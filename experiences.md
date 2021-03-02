@@ -41,6 +41,16 @@ title: Experience
     <a name='2019'></a> Work Experiences
 </h3>
 
+
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>ApexQubit (02/2021 – Present)
+</strong><br />
+         P/T Quantum Machine Learning Engineer, Remotely <br />
+       </p>
+    </div>
+    
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
@@ -49,6 +59,7 @@ title: Experience
          Teaching Assistant (CMPSC 360 Discrete Mathematics), PA <br />
        </p>
     </div>
+    
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
