@@ -14,17 +14,6 @@ You can also browse my <a href="https://scholar.google.com/citations?user=i1uHh2
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>Large-scale MaxCut Optimization on Noisy Superconducting Qubits via Divide-and-Conquer
-</strong><br />
-          <b>Junde Li</b>, Mahabubul Alam, and Swaroop Ghosh<br />
-         International Conference on Architectural Support for Programming Languages and Operating Systems (<b>ASPLOS</b>), 2021. <b>(Under Review)</b> <br />
-       </p>
-    </div>
-</div>
-
-<div class="media">
-    <div class="media-body">
-       <p class="media-heading">
           <strong> Noise Resilient Compilation Policies for Quantum Approximate Optimization Algorithm
 </strong><br />
           Mahabubul Alam, Abdullah Ash-Saki, <b>Junde Li</b>, Anupam Chattopadhyay, and Swaroop Ghosh<br />
