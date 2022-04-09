@@ -41,11 +41,19 @@ title: Experience
     <a name='2019'></a> Work Experiences
 </h3>
 
+<div class="media">
+    <div class="media-body">
+       <p class="media-heading">
+          <strong>Bosch Center for Artificial Intelligence (01/2022 – Present)
+</strong><br />
+         Deep Learning Research Intern, Remotely <br />
+       </p>
+    </div>
 
 <div class="media">
     <div class="media-body">
        <p class="media-heading">
-          <strong>ApexQubit (02/2021 – Present)
+          <strong>ApexQubit (02/2021 – 05/2021)
 </strong><br />
          P/T Quantum Machine Learning Engineer, Remotely <br />
        </p>
